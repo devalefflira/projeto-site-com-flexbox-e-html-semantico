@@ -1,7 +1,7 @@
 # projeto-site-com-flexbox-e-html-semantico
 Projeto Site com Flexbox e HTML Semantico, aprendido no curso Fullstack Developer da B7Web
 
-Projeto elaborado a partir das instruções vista em:
+Projeto elaborado a partir das instruções vistas em:
 Curso: HTML5 e CSS3
 Módulo 7: Flexbox na prática
 Intervalo de aulas: da aula 4 a 11
